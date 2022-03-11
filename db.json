@@ -1,14 +1,56 @@
 {
-    "users": [
-        { "id": "10", "firstName": "John", "age": 25, "companyId": "1" },
-        { "id": "20", "firstName": "Mathew", "age": 32, "companyId": "2" },
-        { "id": "30", "firstName": "Sean", "age": 28, "companyId": "3" },
-        { "id": "40", "firstName": "Adam", "age": 39, "companyId": "3" },
-        { "id": "50", "firstName": "Kathy", "age": 27, "companyId": "1" }
-    ],
-    "companies": [
-        { "id": "1", "name": "Apple Inc", "description": "High tech company" },
-        { "id": "2", "name": "CSG Corp", "description": "Cable products" },
-        { "id": "3", "name": "Google", "description": "Search Engine" }
-    ]
+  "users": [
+    {
+      "id": "10",
+      "firstName": "John",
+      "age": 25,
+      "companyId": "1"
+    },
+    {
+      "id": "20",
+      "firstName": "Nissi",
+      "age": 34,
+      "companyId": "2"
+    },
+    {
+      "id": "30",
+      "firstName": "Sean",
+      "age": 28,
+      "companyId": "3"
+    },
+    {
+      "id": "40",
+      "firstName": "Adam",
+      "age": 39,
+      "companyId": "3"
+    },
+    {
+      "firstName": "Andrew",
+      "age": 23,
+      "id": "t2r535v"
+    },
+    {
+      "firstName": "Ravindu",
+      "age": 32,
+      "companyId": "1",
+      "id": "v8Un8x8"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple Inc",
+      "description": "High tech company"
+    },
+    {
+      "id": "2",
+      "name": "CSG Corp",
+      "description": "Cable products"
+    },
+    {
+      "id": "3",
+      "name": "Google",
+      "description": "Search Engine"
+    }
+  ]
 }
